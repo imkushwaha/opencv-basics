@@ -1,2 +1,1 @@
-# general-template
-general template for any project
+# opencv-basics
